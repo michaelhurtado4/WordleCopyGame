@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane prefHeight="639.0" prefWidth="531.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SampleController">
+   <top>
+      <AnchorPane prefHeight="395.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <HBox layoutX="2.0" layoutY="12.0" prefHeight="75.0" prefWidth="372.0">
+               <children>
+                  <Label fx:id="Box0" alignment="CENTER" maxHeight="64.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box1" alignment="CENTER" minHeight="-Infinity" minWidth="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box2" alignment="CENTER" minHeight="-Infinity" minWidth="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box3" alignment="CENTER" minHeight="-Infinity" minWidth="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box4" alignment="CENTER" minHeight="-Infinity" minWidth="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+               </children>
+               <padding>
+                  <Insets bottom="5.0" top="5.0" />
+               </padding>
+            </HBox>
+            <HBox layoutX="2.0" layoutY="87.0" prefHeight="75.0" prefWidth="374.0">
+               <children>
+                  <Label fx:id="Box5" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box6" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box7" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box8" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box9" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+               </children>
+               <padding>
+                  <Insets bottom="5.0" top="5.0" />
+               </padding>
+            </HBox>
+            <HBox layoutX="2.0" layoutY="162.0" prefHeight="75.0" prefWidth="373.0">
+               <children>
+                  <Label fx:id="Box10" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box11" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box12" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box13" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box14" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+               </children>
+               <padding>
+                  <Insets bottom="5.0" top="5.0" />
+               </padding>
+            </HBox>
+            <HBox layoutX="2.0" layoutY="237.0" prefHeight="75.0" prefWidth="373.0">
+               <children>
+                  <Label fx:id="Box15" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box16" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box17" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box18" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box19" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+               </children>
+               <padding>
+                  <Insets bottom="5.0" top="5.0" />
+               </padding>
+            </HBox>
+            <HBox layoutX="2.0" layoutY="312.0" prefHeight="75.0" prefWidth="373.0">
+               <children>
+                  <Label fx:id="Box20" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box21" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box22" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box23" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box24" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+               </children>
+               <padding>
+                  <Insets bottom="5.0" top="5.0" />
+               </padding>
+            </HBox>
+            <HBox layoutX="2.0" layoutY="387.0" prefHeight="75.0" prefWidth="373.0">
+               <children>
+                  <Label fx:id="Box25" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box26" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box27" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box28" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="Box29" alignment="CENTER" minHeight="-Infinity" prefHeight="64.0" prefWidth="64.0" style="-fx-border-color: black;" textAlignment="CENTER">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="5.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+               </children>
+               <padding>
+                  <Insets bottom="5.0" top="5.0" />
+               </padding>
+            </HBox>
+            <HBox layoutY="522.0" prefHeight="64.0" prefWidth="375.0">
+               <children>
+                  <Button fx:id="buttonA" alignment="CENTER" mnemonicParsing="false" onAction="#AButton" prefHeight="49.0" prefWidth="39.0" text="A" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonS" alignment="CENTER" layoutX="15.0" layoutY="15.0" mnemonicParsing="false" onAction="#SButton" prefHeight="49.0" prefWidth="39.0" text="S" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonD" alignment="CENTER" layoutX="60.0" layoutY="15.0" mnemonicParsing="false" onAction="#DButton" prefHeight="49.0" prefWidth="39.0" text="D" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonF" alignment="CENTER" layoutX="99.0" layoutY="10.0" mnemonicParsing="false" onAction="#FButton" prefHeight="49.0" prefWidth="39.0" text="F" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonG" alignment="CENTER" layoutX="139.0" layoutY="10.0" mnemonicParsing="false" onAction="#GButton" prefHeight="49.0" prefWidth="39.0" text="G" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonH" alignment="CENTER" layoutX="178.0" layoutY="10.0" mnemonicParsing="false" onAction="#HButton" prefHeight="49.0" prefWidth="39.0" text="H" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonJ" alignment="CENTER" layoutX="217.0" layoutY="10.0" mnemonicParsing="false" onAction="#JButton" prefHeight="49.0" prefWidth="39.0" text="J" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonK" alignment="CENTER" layoutX="257.0" layoutY="10.0" mnemonicParsing="false" onAction="#KButton" prefHeight="49.0" prefWidth="39.0" text="K" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonL" alignment="CENTER" layoutX="296.0" layoutY="10.0" mnemonicParsing="false" onAction="#LButton" prefHeight="49.0" prefWidth="37.0" text="L" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+               </children>
+            </HBox>
+            <HBox layoutY="462.0" prefHeight="60.0" prefWidth="376.0">
+               <children>
+                  <Button fx:id="buttonQ" alignment="CENTER" mnemonicParsing="false" onAction="#QButton" prefHeight="49.0" prefWidth="39.0" text="Q" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonW" alignment="CENTER" layoutX="15.0" layoutY="15.0" mnemonicParsing="false" onAction="#WButton" prefHeight="49.0" prefWidth="39.0" text="W" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonE" alignment="CENTER" layoutX="60.0" layoutY="15.0" mnemonicParsing="false" onAction="#EButton" prefHeight="49.0" prefWidth="39.0" text="E" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonR" alignment="CENTER" layoutX="99.0" layoutY="10.0" mnemonicParsing="false" onAction="#RButton" prefHeight="49.0" prefWidth="39.0" text="R" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonT" alignment="CENTER" layoutX="139.0" layoutY="10.0" mnemonicParsing="false" onAction="#TButton" prefHeight="49.0" prefWidth="39.0" text="T" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonY" alignment="CENTER" layoutX="178.0" layoutY="10.0" mnemonicParsing="false" onAction="#YButton" prefHeight="49.0" prefWidth="39.0" text="Y" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonU" alignment="CENTER" layoutX="217.0" layoutY="10.0" mnemonicParsing="false" onAction="#UButton" prefHeight="49.0" prefWidth="39.0" text="U" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonI" alignment="CENTER" layoutX="257.0" layoutY="10.0" mnemonicParsing="false" onAction="#IButton" prefHeight="49.0" prefWidth="39.0" text="I" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonO" alignment="CENTER" layoutX="296.0" layoutY="10.0" mnemonicParsing="false" onAction="#OButton" prefHeight="49.0" prefWidth="39.0" text="O" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonP" alignment="CENTER" layoutX="415.0" layoutY="15.0" mnemonicParsing="false" onAction="#PButton" prefHeight="49.0" prefWidth="39.0" text="P" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+               </children>
+            </HBox>
+            <HBox layoutX="2.0" layoutY="586.0" prefHeight="53.0" prefWidth="375.0">
+               <children>
+                  <Button fx:id="ButtonEnter" alignment="CENTER" mnemonicParsing="false" onAction="#EnterButton" prefHeight="49.0" prefWidth="61.0" text="ENTER" textAlignment="CENTER">
+                     <font>
+                        <Font size="11.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonZ" alignment="CENTER" layoutX="15.0" layoutY="15.0" mnemonicParsing="false" onAction="#ZButton" prefHeight="49.0" prefWidth="39.0" text="Z" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonX" alignment="CENTER" layoutX="60.0" layoutY="15.0" mnemonicParsing="false" onAction="#XButton" prefHeight="49.0" prefWidth="39.0" text="X" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonC" alignment="CENTER" layoutX="99.0" layoutY="10.0" mnemonicParsing="false" onAction="#CButton" prefHeight="49.0" prefWidth="39.0" text="C" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonV" alignment="CENTER" layoutX="139.0" layoutY="10.0" mnemonicParsing="false" onAction="#VButton" prefHeight="49.0" prefWidth="39.0" text="V" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonB" alignment="CENTER" layoutX="178.0" layoutY="10.0" mnemonicParsing="false" onAction="#BButton" prefHeight="49.0" prefWidth="39.0" text="B" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonN" alignment="CENTER" layoutX="217.0" layoutY="10.0" mnemonicParsing="false" onAction="#NButton" prefHeight="49.0" prefWidth="39.0" text="N" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonM" alignment="CENTER" layoutX="257.0" layoutY="10.0" mnemonicParsing="false" onAction="#MButton" prefHeight="49.0" prefWidth="39.0" text="M" textAlignment="CENTER">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button fx:id="buttonDelete" alignment="CENTER" layoutX="296.0" layoutY="10.0" mnemonicParsing="false" onAction="#DeleteButton" prefHeight="49.0" prefWidth="61.0" text="DELETE" textAlignment="CENTER">
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <HBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </HBox.margin>
+                     <font>
+                        <Font size="11.0" />
+                     </font>
+                  </Button>
+               </children>
+            </HBox>
+            <Button fx:id="resetButton" layoutX="471.0" layoutY="72.0" mnemonicParsing="false" onAction="#reset" prefHeight="29.0" prefWidth="46.0" text="Reset" />
+            <Button fx:id="startButton" layoutX="412.0" layoutY="72.0" mnemonicParsing="false" onAction="#startButton" prefHeight="29.0" prefWidth="46.0" text="Start" />
+            <Label layoutX="391.0" layoutY="15.0" prefHeight="69.0" prefWidth="147.0" text="WORDLE">
+               <font>
+                  <Font size="36.0" />
+               </font>
+            </Label>
+            <Label fx:id="warningText" alignment="CENTER" layoutX="376.0" layoutY="106.0" prefHeight="480.0" prefWidth="159.0" text="Welcome to wordle! Press start to play. " textAlignment="CENTER" wrapText="true">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+            <Button fx:id="saveButton" layoutX="412.0" layoutY="112.0" mnemonicParsing="false" onAction="#buttonSave" prefHeight="25.0" prefWidth="105.0" text="Save" />
+            <TextField fx:id="loadField" layoutX="381.0" layoutY="586.0" onAction="#LoadField" promptText="type file to load:" />
+            <Label fx:id="loadLabel" layoutX="376.0" layoutY="609.0" prefHeight="31.0" prefWidth="159.0" />
+         </children>
+      </AnchorPane>
+   </top>
+</BorderPane>
